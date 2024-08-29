@@ -1,4 +1,4 @@
-# Hello word! Eu sou a Rosiane  👋
+# Hello! Eu sou a Rosiane 👋
 
 ### Sobre Mim
 Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas! Atualmente, estou focada em me preparar para o meu primeiro estágio na área de Análise e Desenvolvimento de Sistemas.
@@ -10,13 +10,15 @@ Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas! 
 - ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) CSS
 - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6c/JavaScript-logo.png) JavaScript
 
+### Gráficos
+- **Gráfico de Barras**
+  ![Gráfico de Barras](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bar_chart_example.svg/640px-Bar_chart_example.svg.png)
 
-  [](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bar_chart_example.svg/640px-Bar_chart_example.svg.png)
+- **Gráfico de Pizza**
+  ![Gráfico de Pizza](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Pie_chart_example.svg/640px-Pie_chart_example.svg.png)
 
-
-  [](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Pie_chart_example.svg/640px-Pie_chart_example.svg.png)
-
-  [](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Line_chart_example.svg/640px-Line_chart_example.svg.png)
+- **Gráfico de Linhas**
+  ![Gráfico de Linhas](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Line_chart_example.svg/640px-Line_chart_example.svg.png)
 
 ### Projetos
 - Portfólio: Em breve! Estou trabalhando nisso e espero compartilhar em breve. 
@@ -24,8 +26,12 @@ Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas! 
 
 ### Conecte Comigo
 - 🌐 [LinkedIn](http://www.linkedin.com/in/rosiane-rosa-b8401117a)
-- 📸 [](https://www.instagram.com/rosianerosa__?igsh=MWkydWVnb2d3cWVhNQ%3D%3D&utm_source=qr)
+- 📸 [Instagram](https://www.instagram.com/rosianerosa__?igsh=MWkydWVnb2d3cWVhNQ%3D%3D&utm_source=qr)
 
+### Curiosidades
+- 💡 Adoro resolver problemas complexos com soluções criativas e inovadoras.
+- 📚 Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
 
-Sinta-se à vontade para explorar meu repositório!
-Deixe seu  feedback! 😊
+---
+
+Sinta-se à vontade para explorar meu repositório! Estou ansiosa para receber seu feedback! 😊
