@@ -1,37 +1,20 @@
-# Hello! Eu sou a Rosiane 👋
+# Hello !! Eu sou a Rosiane ✋🏽
 
-### Sobre Mim
-Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas! Atualmente, estou focada em me preparar para o meu primeiro estágio na área de Análise e Desenvolvimento de Sistemas.
+## Estudante de Análise e Desenvolvimento de Sistemas 📖
 
-### Habilidades
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_Logo.svg) SQL
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/b/b2/HTML5_logo_and_wordmark.svg) HTML
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) CSS
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6c/JavaScript-logo.png) JavaScript
+[![RedeSocial](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rosiane-rosa-b8401117a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosianerosa__?igsh=MWkydWVnb2d3cWVhNQ%3D%3D&utm_source=qr)
 
-### Gráficos
-- **Gráfico de Barras**
-  ![Gráfico de Barras](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bar_chart_example.svg/640px-Bar_chart_example.svg.png)
+![Rosiane5 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosiane5&show_icons=true&theme=radical)
 
-- **Gráfico de Pizza**
-  ![Gráfico de Pizza](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Pie_chart_example.svg/640px-Pie_chart_example.svg.png)
 
-- **Gráfico de Linhas**
-  ![Gráfico de Linhas](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Line_chart_example.svg/640px-Line_chart_example.svg.png)
+## "A tecnologia é o que nos move, mas a paixão pelo aprendizado é o que nos faz ir além."
 
-### Projetos
-- Portfólio: Em breve! Estou trabalhando nisso e espero compartilhar em breve. 
-- GitHub: Sinta-se à vontade para explorar meus projetos e contribuições!
+## Tecnologias que uso no meu dia 💻
 
-### Conecte Comigo
-- 🌐 [LinkedIn](http://www.linkedin.com/in/rosiane-rosa-b8401117a)
-- 📸 [Instagram](https://www.instagram.com/rosianerosa__?igsh=MWkydWVnb2d3cWVhNQ%3D%3D&utm_source=qr)
-
-### Curiosidades
-- 💡 Adoro resolver problemas complexos com soluções criativas e inovadoras.
-- 📚 Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
-
----
-
-Sinta-se à vontade para explorar meu repositório! Estou ansiosa para receber seu feedback! 😊
+<div style="display: block"><br>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
