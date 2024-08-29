@@ -1,7 +1,5 @@
 # Hello !! Eu sou a Rosiane ✋🏽
 
-## Estudante de Análise e Desenvolvimento de Sistemas 📖
-
 [![RedeSocial](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rosiane-rosa-b8401117a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosianerosa__?igsh=MWkydWVnb2d3cWVhNQ%3D%3D&utm_source=qr)
 
