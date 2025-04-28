@@ -1,6 +1,7 @@
 # Hello !! Eu sou a Rosiane ✋🏽
 
-[![RedeSocial](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rosiane-rosa-b8401117a)
+[![RedeSocial](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rosiane-rosa-5dev)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosianerosa__?igsh=MWkydWVnb2d3cWVhNQ%3D%3D&utm_source=qr)
 
 ![Rosiane5 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosiane5&show_icons=true&theme=radical)
